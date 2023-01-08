@@ -61,7 +61,8 @@
 }
 
 ul {
-    list-style-image: url('/images/icons/check.png');
+    /*list-style-image: url('/images/icons/check.png');*/
+    list-style-image: url('https://github.com/zamanic/prothoma/blob/main/images/icons/check.png');
 }
 
 .my-plans {
@@ -88,7 +89,8 @@ ul {
     padding: 20px;
     width: 800px;
     height: 200px;
-    background-image: url('/images/watch-bg.png');
+    /*background-image: url('/images/watch-bg.png');*/
+    background-image: url('https://github.com/zamanic/prothoma/blob/main/images/watch-bg.png');
     background-size: cover;
     background-position: center;
     position: relative;
